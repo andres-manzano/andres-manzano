@@ -4,7 +4,7 @@ I'm from Colombia and currently live in Cali.
 ## About me:
 - I'm **Data Scientist** at DataKnow. <img src="https://user-images.githubusercontent.com/97210256/208346602-14085738-2e73-4f7d-92ad-edc54a0b7f65.png" width="200" height="50">
 - My majors are **Economics and International Business** and **International Marketing and Advertising** at Icesi University
-- I'm passionate to improve my skills everyday, so that I'm learning about topics related to Data Science, Machine Learning, AI and Cloud Computing.
+- I'm passionate to improve my skills everyday, so that I'm learning about topics related to Data Science, AI, Machine Learning, Deep Learning and Cloud Computing.
 - I'm bilingual (Spanish and English), I'm learning German and I'd like to learn French and Jappanesse in the future.
 
 ## Reach me out:

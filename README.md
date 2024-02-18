@@ -1,11 +1,11 @@
 # Hello everyone! I'm Andres Manzano👋
-I'm from Colombia and currently live in Cali.
+I'm from Colombia.
 
 ## About me:
-- I'm passionate about **AI and Data Science**
-- My majors are **Economics and International Business** and **International Marketing and Advertising** at Icesi University
-- Every day, I'm trying to improve my skills, so that I'm learning about topics related to Data Science, AI, Machine Learning, Deep Learning and Cloud Computing.
-- I'm bilingual (Spanish and English), I'm learning German and I'd like to learn French and Japanesse in the future.
+- I'm passionate about **AI and Data Science**.
+- My majors are **Economics and International Business** and **International Marketing and Advertising** at Icesi University.
+- Every day, I'm improving my skills, so that I'm learning about topics related to Data Science, AI, Machine Learning, Deep Learning and Cloud Computing.
+- I'm bilingual (Spanish and English), I'm learning German too and I'd like to learn French and Japanesse in the future.
 
 ## Reach me out:
 

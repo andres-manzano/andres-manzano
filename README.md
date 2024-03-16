@@ -2,10 +2,21 @@
 I'm from Colombia.
 
 ## About me:
-- I'm passionate about **AI and Data Science**.
-- My majors are **Economics and International Business** and **International Marketing and Advertising** at Icesi University.
-- Every day, I'm improving my skills, so that I'm learning about topics related to Data Science, AI, Machine Learning, Deep Learning and Cloud Computing.
-- I'm bilingual (Spanish and English), I'm learning German too and I'd like to learn French and Japanesse in the future.
+I'm passionate about **AI and Data Science**.
+
+I'm bilingual (Spanish and English). I like to learn languages and in the future I would like to speak fluent German, French and Japanesse.
+
+My majors are **Economics and International Business** and **International Marketing and Advertising** at Icesi University.
+
+I'm certified in Azure Clod:
+- Azure AI Engineer Associate
+- Azure Data Scientist Associate
+- Azure AI Fundamentals
+- Azure Fundamentals
+- Azure Data Fundamentals
+- Security, Compliance, and Identity Fundamentals
+
+Every day, I'm improving my skills, so that I'm learning about topics related to AI, Generative AI, Machine Learning, Deep Learning, and Cloud Computing.
 
 ## Reach me out:
 

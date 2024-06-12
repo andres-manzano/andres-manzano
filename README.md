@@ -18,7 +18,7 @@ I'm certified in Azure Clod:
 
 Every day, I'm improving my skills, so that I'm learning about topics related to AI, Generative AI, Machine Learning, Deep Learning, and Cloud Computing.
 
-## Reach me out:
+## Contact:
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andres-manzano/)
 

@@ -50,12 +50,18 @@ Every day, I'm improving my skills, so that I'm learning about topics related to
 ![Spark Badge](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ---
-## Cloud & Computing
+## Cloud & IaC
 
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Amazon Web Services Badge](https://img.shields.io/badge/Amazon_Web_Services-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![NVIDIA Badge](https://img.shields.io/badge/Nvidia-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
+![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+### Database
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 ## Software & Tools
@@ -63,6 +69,7 @@ Every day, I'm improving my skills, so that I'm learning about topics related to
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Poetry Badge](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
+![UV Badge](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 
 ---

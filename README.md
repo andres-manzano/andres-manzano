@@ -1,22 +1,19 @@
 # Hello everyone! I'm Andres Manzano👋
-I'm from Colombia.
 
 ## About me:
-I'm passionate about **AI and Data Science**.
 
-I'm bilingual (Spanish and English). I like to learn languages and in the future I would like to speak fluent German, French and Japanesse.
+My passion lies in Artificial Intelligence and Data Science/Machine Learning. I enjoy building scalable solutions that create real-world impact. With two years of experience in IT consulting, my expertise spans cloud-based AI architectures, data processing, and ML systems—applying best practices to deliver efficient and reliable results.
 
-My majors are **Economics and International Business** and **International Marketing and Advertising** at Icesi University.
+I enjoy working with cloud platforms (primarily Azure, but also AWS and GCP), FastAPI, LangChain, and OpenAI. I’m constantly exploring new tools and pushing the limits of what AI can do. For me, every project is an opportunity to learn, iterate, and grow.
 
-I'm certified in Azure Clod:
-- Azure AI Engineer Associate
-- Azure Data Scientist Associate
-- Azure AI Fundamentals
-- Azure Fundamentals
-- Azure Data Fundamentals
-- Security, Compliance, and Identity Fundamentals
+I love learning new things about AI and Data Science, finding new ways to apply them in real-world scenarios. I continuously challenge myself to improve—each project represents a step forward in my knowledge, skills, and career.
 
-Every day, I'm improving my skills, so that I'm learning about topics related to AI, Generative AI, Machine Learning, Deep Learning, and Cloud Computing.
+Azure Certifications:
+✅ Microsoft Certified: Azure AI Engineer Associate
+✅ Microsoft Certified: Azure Data Scientist Associate
+✅ Four Fundamentals: Azure AI Fundamentals (AI-900), Azure Data Fundamentals (DP-900), Azure Fundamentals (AZ-900), Security, Compliance & Identity Fundamentals (SC-900)
+
+I like languages. I speak Spanish (mother tongue), English and I'm learning German.
 
 ## Contact:
 
